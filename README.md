@@ -1,5 +1,6 @@
 # To see it live click the button :  [Plants](https://ancient-oasis-10081.herokuapp.com/)
 ## Description: This is a simple app that helps user to keep tracking when the plants needs to be watered. At the moment user can water individual plant by clicking the Water button and automatically receiving an update of the last date the plants was watered. Also there is a button to delete the plant in case of necesity. This is version 1.0.1 of my app.
+![myapp](https://github.com/tudorbejinari/WaterMe/plants.PNG)
 ## Version 1.0.2 is currently in developing mode with following updates:
 
 * User account
