@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Libre Baskerville', serif;
+ 
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+.list-group {
+  color: #19A2B8;
+}

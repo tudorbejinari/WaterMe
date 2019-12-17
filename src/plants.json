@@ -1,0 +1,57 @@
+[
+  { "id": 1,
+    "name": "Fiddle Leaf Fig",
+    "photo": "https://images.homedepot-static.com/productImages/3403561f-5315-40e7-a0cf-315450de061f/svn/costa-farms-house-plants-co-fl11-3-sea-64_1000.jpg",
+    "water_after": "7"
+  },
+  { "id": 2,
+    "name": "Snake Plant",
+    "photo": "https://realornamentals.com/plant-store/media/catalog/product/cache/6/image/9df78eab33525d08d6e5fb8d27136e95/s/i/silver-queen-snake-plant-small-ornamental-plant-sanseveria-silver-queen-realornamentals.com-web.jpg",
+    "water_after": "14"
+  },
+  { "id": 3,
+    "name": "Money Tree",
+    "photo": "https://www.easternleaf.com/v/vspfiles/photos/801300-02-2T.jpg",
+    "water_after": "14"
+  },
+  { "id": 4,
+    "name": "Bird's Nest Fern",
+    "photo": "https://www.plantingman.com/wp-content/uploads/2017/11/Birds-Nest-Fern.jpg",
+    "water_after": "3"
+  },
+  { "id": 5,
+    "name": "Croton",
+    "photo": "https://img.teleflora.com/images/o_0/l_flowers:T106-2A,pg_6/w_368,h_460,cs_no_cmyk,c_pad/f_jpg,q_auto:eco,e_sharpen:200/flowers/T106-2A/StatelyCroton",
+    "water_after": "7"
+  },
+  { "id": 6,
+    "name": "Bell Pepper Plant",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/91oG3iuN0ML._SY450_.jpg",
+    "water_after": "3"
+  },
+  { "id": 7,
+    "name": "Strawberry Plant",
+    "photo": "https://cdn.shopify.com/s/files/1/0156/0137/products/refill_0013_wild_strawberry.jpg?v=1522850677",
+    "water_after": "3"
+  },
+  { "id": 8,
+    "name": "Dracaena",
+    "photo": "https://fischerflowers.imgix.net/images/item/TMF-214DracaenaMarginataPlant-19040953100.jpg?w=950&auto=format",
+    "water_after": "14"
+  },
+  { "id": 9,
+    "name": "Spider Plant",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/61PPYUoc2aL._SL1000_.jpg",
+    "water_after": "7"
+  },
+  { "id": 10,
+    "name": "Jade",
+    "photo": "https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/jade-planting-growing.jpg?itok=XAWRrD6K",
+    "water_after": "14"
+  },
+  { "id": 11,
+    "name": "Wavy Fern",
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/61nMrzFiYqL._SX679_.jpg",
+    "water_after": "2"
+  }
+]
